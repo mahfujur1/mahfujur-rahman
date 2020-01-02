@@ -1,10 +1,10 @@
 ### Contact Information
 ```
-B1-209, Main Building<br />
-University of Electronic Science and Technology of China (Qingshuihe Campus)<br />
-No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China 611731
+Queensland University of Technology (QUT)<br />
+S block, Gardens Point<br />
+2 George St, Brisbane City, QLD 4000, Australia.
 
-Email: liwenbnu AT gmail DOT com
+Email: mahfuj092 AT gmail DOT com
 ```
 
 ### Biography
