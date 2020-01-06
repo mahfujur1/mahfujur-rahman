@@ -1,4 +1,4 @@
-# mahfujur-rahman
-Mohammad Mahfujur Rahman's Homepage
+# Mahfujur Rahman
+[Mohammad Mahfujur Rahman's Homepage](https://mahfujur1.github.io/mahfujur-rahman/)
 
 
